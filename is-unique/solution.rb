@@ -26,3 +26,6 @@ end
 #
 # Time complexity would be O(n) where n is the size of the string
 # because it has to look at every character in the string
+
+# If we can't use additional datastructures we could compare each character to
+# everyother character resulting in O(n^2) time complexity
